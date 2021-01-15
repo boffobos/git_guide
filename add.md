@@ -1,3 +1,5 @@
+[< back to contents](/readme.md)
+
 # git add
 
 **git add *[file]*** - Add file contents to the index
