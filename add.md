@@ -6,7 +6,7 @@
 
 For adding all files in directory to the index (exc. ignoring) use command:
 
-```bash-
+```bash
 git add .
 ```
 

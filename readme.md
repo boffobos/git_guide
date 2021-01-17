@@ -6,9 +6,15 @@ licence: [MIT](./license.md)
 
 -------
 ### Contents:
-1.
+1. [git init](./init.md)
 2. [git add](./add.md)
-
+3. [git commit](./commit.md)
+4. [git remote](./remote.md)
+5. [git push](./push.md)
+6. [SSH](./ssh.md)
+7. [Public SSH key](./public_ssh_key.md)
+8. [git config](./config.md)
+9. 
 
 
 ------
