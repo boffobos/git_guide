@@ -14,7 +14,9 @@ licence: [MIT](./license.md)
 6. [SSH](./ssh.md)
 7. [Public SSH key](./public_ssh_key.md)
 8. [git config](./config.md)
-9. 
+9. [git status](./status.md)
+10. [git log](./log.md)
+11. [git branch](./branch.md)
 
 
 ------
