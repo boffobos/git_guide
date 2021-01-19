@@ -9,6 +9,12 @@ When commiting changes it is important to describe them using following command:
 ```bash-
 git commit -m "decription of made changes"
 ```
+Changing previous commit
+```
+git commit --amend -m "comment to commit"
+
+```
+
 
 For detailed information follow [link](https://git-scm.com/docs/git-commit)
 

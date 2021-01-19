@@ -22,6 +22,14 @@ the following command force change the name of branch:
 ```bash-
 git branch -M main
 ```
+Shortcut for `git branch <branchname>` following `git checkout <branchname>` 
+```bash
+git checkout -b <branchname>
+```
+For switching branches use the command:
+```bash
+git checkout <branchname>
+```
 
 For detailed information follow [link](https://git-scm.com/docs/git-branch)
 
