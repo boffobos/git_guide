@@ -25,4 +25,4 @@ git config --global alias.type 'cat-file -t'
 ```bash
 git config --global alias.dump 'cat-file -p'
 ```
-[<Previous](./fetch.md) ... [Next>](.)
+[<Previous](./fetch.md) ... [Next>](./checkout.md)
