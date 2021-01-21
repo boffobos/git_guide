@@ -17,6 +17,9 @@ licence: [MIT](./license.md)
 9. [git status](./status.md)
 10. [git log](./log.md)
 11. [git branch](./branch.md)
+12. [fetch](./fetch.md)
+13. [aliases](./aliases.md)
+14. [checkout](./checkout.md)
 
 
 ------
