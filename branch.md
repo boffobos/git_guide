@@ -30,6 +30,10 @@ For switching branches use the command:
 ```bash
 git checkout <branchname>
 ```
+Shows all branches local and remote repository:
+```bash
+git branch -a
+```
 
 For detailed information follow [link](https://git-scm.com/docs/git-branch)
 

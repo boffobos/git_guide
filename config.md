@@ -25,5 +25,10 @@ To get know where is stored particular configuration enter next command:
 ```
 git config --show-origin user.email
 ```
+Useful commands:
+```bash
+git config --list --show-origin #shows where settings stored
+git config --global --list #shows all global settings
+```
 
 [<Previous](./public_ssh_key.md) ... [Next>](.)
