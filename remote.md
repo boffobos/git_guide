@@ -14,6 +14,13 @@ For adding remote on github.com repository enter next command (changing url to r
 git remote add origin git@github.com:boffobos/git_guide.git
 ```
 
+```bash
+git remote show <remotename>
+```
+```bash
+git remote add shared <url> #create remote `shared` repo for local repo
+```
+
 For detailed information follow [link](https://git-scm.com/docs/git-remote)
 
 [<Previous](./commit.md) ... [Next>](./push.md)
