@@ -54,7 +54,7 @@ unset env
 Checking key using ssh-agent:
 
 ```bash
-ssh-add -l
+ssh-add ~/.ssh/your_key
 ```
 
 Next you should do is set up public ssh-key to github.com
